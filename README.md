@@ -47,5 +47,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubham0D4&theme=gruvbox-duo&background=#475877)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham0D4&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
