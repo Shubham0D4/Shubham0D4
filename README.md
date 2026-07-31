@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,bootstrap,figma&theme=dark" />
 
 ### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,fastapi&theme=dark" />
 
 ### 🗄 Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
